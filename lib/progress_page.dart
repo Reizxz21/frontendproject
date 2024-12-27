@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class ProgressPage extends StatelessWidget {
-  final double progressPercentage = 0.65; // 65% progres selesai
+  final double progressPercentage = 0.37; // 65% progres selesai
 
   @override
   Widget build(BuildContext context) {
